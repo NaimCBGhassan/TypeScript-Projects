@@ -37,7 +37,7 @@
 
 - **TypeScript (Vanilla)**: It's a Todo app where you can add your tasks, mark if complete, and delete one or all tasks whenever you want.
 
-- **TypeScript + React**: under construction
+- **TypeScript + React**: It's a simple Online Shop app where you can add and remove your products in the cart.
 
 <hr/>
 <h2 id="Acces">Access to projects</h2>
