@@ -1,11 +1,11 @@
-<h1 id="Titulo">TypeScript Projects <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"></h1>
+<h1 id="Titulo">TypeScript Projects </h1>
 
 <h2 id="Description">Project Description</h2>
 <p>
  This is a repository where you will find the following two simple projects made using TypeScript:
 
-- <a href=""> <strong>TypeScript</strong> (Vanilla) </a>
-- <a href=""> <strong>TypeScript</strong> + React </a>
+- <strong>TypeScript</strong> (Vanilla)
+- <strong>TypeScript</strong> + React
 </p>
 
 <img src="https://miro.medium.com/v2/resize:fit:1200/1*XrBl31sgJTDys9rNqd-nyg.jpeg" alt="TypeScipt + GitHub">
@@ -31,7 +31,7 @@
 
 <hr/>
 <h2 id="Status">Project Status</h2>
-<p align="center">🚧 Project under construction 🚧</p>
+<p align="center"> ✅ FINISHED ✅</p>
 
 <h2 id="Status">Project Features</h2>
 
@@ -42,13 +42,15 @@
 <hr/>
 <h2 id="Acces">Access to projects</h2>
 
-- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="15px"/> [GitHub repository](...)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="15px"/> [TypeScript Project](https://github.com/NaimCBGhassan/TypeScript-Projects/tree/main/TypeScript%20%2B%20Vanilla)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="15px"/> [TypeScript Project](...)
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" height="15px"/> [TypeScript + React Project](...)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/800px-React.svg.png" height="15px"/> [TypeScript + React Project](https://github.com/NaimCBGhassan/TypeScript-Projects/tree/main/TypeScript%20%2B%20React)
 
 <hr/>
 <h2 id="Technologies">Used technologies</h2>
 
-<p align="center">🚧 Under construction 🚧</p>
+<ul >
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>JSON Server</li>
+</ul>
